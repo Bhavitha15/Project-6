@@ -1,0 +1,92 @@
+/*#n1{
+    
+    margin-left: 40%;
+}
+#n2{
+    margin-top: 1%;
+    margin-left: 40%;
+}*/
+.value{
+    margin-top:1%;
+    margin-left: 2%;
+}
+#add{
+    margin-top:1%;
+    margin-left: 35%;
+    border-radius: 20% 20% 20% 20%;
+    height:35px;
+    width:50px;
+}
+#sub{
+    margin-top:1%;
+    margin-left: 1.5%;
+    border-radius: 20% 20% 20% 20%;
+    height:35px;
+    width:50px;
+}
+
+#mul{
+    margin-top:1%;
+    margin-left: 35%;
+    border-radius: 20% 20% 20% 20%;
+    height:35px;
+    width:50px;
+}
+#div{
+    margin-top:1%;
+    margin-left: 1.5%;
+    border-radius: 20% 20% 20% 20%;
+    height:35px;
+    width:50px;
+}
+/*form{
+    border:2px solid black;
+    height:10%;
+}*/
+#reload{
+    margin-top:1%;
+    margin-left: 35%;
+    border-radius: 20% 20% 20% 20%;
+    height:35px;
+    width:50px;
+}
+#answer{
+    margin-top:1%;
+    margin-left: 1.5%;
+    border-radius: 20% 20% 20% 20%;
+    height:35px;
+    width:50px;
+}
+#result{
+    border:2px solid white;
+    height:25px;
+    width:30px;
+    margin-left: 45.5%;
+    color:white;
+}
+#result1{
+    border:2px solid white;
+    height:fit-content;
+    width:fit-content;
+    margin-left: 45.5%;
+    color:white;
+}
+
+body{
+    background:url(https://static.vecteezy.com/system/resources/previews/002/296/625/non_2x/calculator-on-a-blue-background-photo.jpg);
+}
+.container{
+    border:2px solid white;
+    height:350px;
+    width:390px;
+    margin-top:12%;
+    margin-left:35%;
+    border-radius: 20% 20% 20% 20%;
+    background-color:rgba(0,0,0,0.31);
+}
+h2{
+    color:white;
+}
+center{
+    color: white;
+}
